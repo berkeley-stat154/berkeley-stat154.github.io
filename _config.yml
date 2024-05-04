@@ -13,7 +13,7 @@
 # you will see them accessed via \{\{ site.title \}\}, \{\{ site.github_repo \}\}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via \{\{ site.myvariable \}\}.
-title: Stat 154: Modern Statistical Prediction and Machine Learning
+title: "Stat 154: Modern Statistical Prediction and Machine Learning"
 tagline: Course Overview
 description: Theory and practice of statistical prediction. Contemporary methods as extensions of classical methods. Topics: optimal prediction rules, the curse of dimensionality, empirical risk, linear regression and classification, basis expansions, regularization, splines, the bootstrap, model selection, classification and regression trees, boosting, support vector machines. Computational efficiency versus predictive performance. Emphasis on experience with real data and assessing statistical assumptions. This course uses Python as its primary computing language; details are determined by the instructor.
 author: SCF
