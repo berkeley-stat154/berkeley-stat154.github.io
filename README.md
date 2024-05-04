@@ -1,14 +1,14 @@
 ---
 layout: home
-title: Stat 999
+title: Stat 154: Modern Statistical Prediction and Machine Learning
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Stat 999
+  name: Stat 154: Modern Statistical Prediction and Machine Learning
 ---
 
-# Short Title of Class
+# Stat 154: Modern Statistical Prediction and Machine Learning
 {: .mb-2 }
 UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
@@ -20,36 +20,13 @@ UC Berkeley
 
 [//]: # (Notably the paths should not have leading slashes in real sites.)
 
-1. [Spring 2023 (Quarto)](/stat999-quarto)
-1. [Fall 2024 (MyST)](/stat999-myst)
+[//]: # 1. [Spring 2023 (Quarto)](/stat999-quarto)
+[//]: # 1. [Fall 2024 (MyST)](/stat999-myst)
 
 ## Overview
 
-This is a GitHub Pages template based on Just the Class, developed for the purpose of quickly deploying course overview websites. Such websites link to previous course offerings, provide a summary of what the course is about, and may list learning goals and prerequisites. This paragraph would normally be replaced by an overview of a specific course, and could include information from the [Berkeley Academic Guide](https://guide.berkeley.edu/courses/stat/).
-
-When instantiating this template, change:
-
-  - `README.md`
-    - the `title` and `name` fields in the frontmatter
-    - the "Short Title of Class" heading to be the course name followed by its title in the Academic Guide, e.g. "Stat 555: Adventures in Class Websites"
-    - add an initial entry in the Offerings section
-    - the Overview section and Prequisites, based on content in the [Academic Guide](https://guide.berkeley.edu/courses/stat/)
-
-  - `_config.yml`
-    - Set `baseurl` to be the empty string, ''.
-    - Set `url` to be the institutional address, e.g. https://stat555.stat.berkeley.edu
-
-## Goals
-
-- **Do** list some goals for the course here.
-
-- **Or do not** list some goals.
-
-- **Decide** if this section is relevant.
+Theory and practice of statistical prediction. Contemporary methods as extensions of classical methods. Topics: optimal prediction rules, the curse of dimensionality, empirical risk, linear regression and classification, basis expansions, regularization, splines, the bootstrap, model selection, classification and regression trees, boosting, support vector machines. Computational efficiency versus predictive performance. Emphasis on experience with real data and assessing statistical assumptions. This course uses Python as its primary computing language; details are determined by the instructor.
 
 ## Prerequisites
-While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites:
 
-1. **Name of First Class:** Stat 555 covers important things.
-
-1. **Some Other Class:** Stat 777 covers other topics.
+Mathematics 53 or equivalent; Mathematics 54, Electrical Engineering 16A, Statistics 89A, Mathematics 110 or equivalent linear algebra; Statistics 135, the combination of Data/Stat C140 and Data/Stat/Compsci C100, or equivalent; experience with some programming language. Recommended prerequisite: Mathematics 55 or equivalent exposure to counting arguments.
