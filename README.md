@@ -31,8 +31,6 @@ Theory and practice of statistical prediction. Contemporary methods as extension
 
 Three hours of lecture and two hours of laboratory per week. Four and one-half hours of lecture and three hours of laboratory per week for 10 weeks. 
 
-Written final exam conducted during the scheduled final exam period.
-
 ## Prerequisites
 
 Mathematics 53 or equivalent; Mathematics 54, Electrical Engineering 16A, Statistics 89A, Mathematics 110 or equivalent linear algebra; Statistics 135, the combination of Data/Stat C140 and Data/Stat/Compsci C100, or equivalent; experience with some programming language. Recommended prerequisite: Mathematics 55 or equivalent exposure to counting arguments.
